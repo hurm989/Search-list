@@ -1,0 +1,10 @@
+:root{
+    --colorOne:#5584AC;
+    --colorTwo:#95D1CC;
+}
+.bgColorOne{
+    background-color: #5584AC;
+}
+.bgColorTwo{
+    background-color: #95D1CC;
+}
